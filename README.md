@@ -1,11 +1,11 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Aditya](https://xditya.me) | [![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)](https://github.com/xditya)
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Akshat7678](https://github.com/Akshat7678) | [![Profile views](https://komarev.com/ghpvc/?username=akshat7678&label=Profile%20views)](https://github.com/akshat7678)
    
-- 💫 I’m currently working on [Ultroid](https://github.com/TeamUltroid)
+- 💫 I’m currently working on [Arjv3n Projectz](https://t.me/Arjv3n_Projectz)
 - 📫 [Connect with me](#-connect-with-me).
-- ⚡ Always ready to help!
+- ⚡ Always ready to help..!
 ---
 
-## 🛠️ Languages and tools
+## 🛠️ Languages and tools I Love 🧡
 </br>
 <a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
 <a href="https://www.gnu.org/software/bash/" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> 
@@ -23,50 +23,14 @@
 ---
 ## 📊 Stats
 
-[![Metrics](https://metrics.lecoq.io/xditya?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://xditya.me)
+[![Metrics](https://metrics.lecoq.io/akshat7678?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://github.com/Akshat7678)
 
 ---
 ## 🔗 Connect with me
 
 <!-- png icons from https://iconscout.com/ -->
-<a href="https://xditya.me" class="padded"><img align="left" alt="https://xditya.me" width="28px" src="./res/website.png" /></a> 
-<a href="https://youtube.com/xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/youtube.png" /></a> 
-<a href="https://telegram.dog/xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/telegram.png" /></a> 
-<a href="https://twitter.com/its_xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/twitter.png" /></a> 
+<a href="https://www.youtube.com/results?search_query=Akki+ThePro047" class="padded"><img align="left" alt="Akshat" width="28px" src="./res/youtube.png" /></a> 
+<a href="https://telegram.dog/Akki_ThePro" class="padded"><img align="left" alt="Akki ThePro" width="28px" src="./res/telegram.png" /></a> 
 </br>
 
 ---
-## 🎥 Latest YouTube Videos
-
-<!-- YouTube:START -->
-- [Deploy Ultroid to Railway | Telegram UserBot | #TheUltroid](https://www.youtube.com/watch?v=eGAlSz2aEZk)
-- [Deploy Ultroid to Qovery | Telegram UserBot | #TheUltroid](https://www.youtube.com/watch?v=ryMptDTwVEg)
-- [Deploy Ultroid on a VPS/Local Machine | Telegram UserBot | #TheUltroid](https://www.youtube.com/watch?v=QfdZiQEWmSo)
-- [Deploy Ultroid to Heroku | Telegram UserBot | Ultroid](https://www.youtube.com/watch?v=9wF7k9qA0Q4)
-- [Deploy your own GitHub Bot | Telegram | GitGram](https://www.youtube.com/watch?v=mp3oTG8DC58)
-<!-- YouTube:END -->
-> ➕ [View More...](https://youtube.com/xditya)
-
----
-## 💻 Latest Activities
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#146](https://github.com/TeamUltroid/Ultroid/pull/146) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. 💪 Opened PR [#2](https://github.com/BLUE-DEVIL1134/UltroidCli/pull/2) in [BLUE-DEVIL1134/UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli)
-3. 🗣 Commented on [#136](https://github.com/TeamUltroid/Ultroid/issues/136) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. ❌ Closed PR [#136](https://github.com/TeamUltroid/Ultroid/pull/136) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. ❌ Closed PR [#133](https://github.com/TeamUltroid/Ultroid/pull/133) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-<!--END_SECTION:activity-->
-
----
-
-## 🎵 Now playing
-
-[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
-
----
-
-## 💰 Support Me
-
-<a href="https://ko-fi.com/xditya" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="xditya" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
-<a href="https://www.paypal.me/xditya7" class="padded"><img height="30" style="border:0px;height:30px;" align="centre" alt="xditya" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
