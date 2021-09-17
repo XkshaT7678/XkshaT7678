@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Akshat7678](https://github.com/Akshat7678) | [![Profile views](https://komarev.com/ghpvc/?username=akshat7678&label=Profile%20views)](https://github.com/akshat7678)
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Akshat7678](https://github.com/Akshat7678) | [![Profile views](https://komarev.com/ghpvc/?username=akshat7678&label=My%20Fans❤)](https://github.com/akshat7678)
    
 - 💫 I’m currently working on [Arjv3n Projectz](https://t.me/Arjv3n_Projectz)
 - 📫 [Connect with me](#-connect-with-me).
