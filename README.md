@@ -1,6 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Akshat7678](https://github.com/Akshat7678) | [![Profile views](https://komarev.com/ghpvc/?username=akshat7678&label=My%20Fans%20❤)](https://github.com/akshat7678)
-   
-- 💫 I’m currently working on [Arjv3n Projectz](https://t.me/Arjv3n_Projectz)
+   <p align='Middle'><a href='https://t.me/Akki_ThePro'><img src='https://telegra.ph/file/fc45a49e9df3446a3e47d.jpg' width='400"'></a></p>
+
+- 
 - 📫 [Connect with me](#-connect-with-me).
 - ⚡ Always ready to help..!
 ---
@@ -34,3 +35,64 @@
 </br>
 
 ---
+
+
+
+
+### Hi 👋👋
+
+<p align='Middle'><a href='https://t.me/Paramatin7'><img src='https://telegra.ph/file/918273a8e97047f96eeb9.jpg' width='750"'></a></p>
+
+<details>
+<summary>✨My Stats</summary><p align='middle'><img src='https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple' width='500"'></p>
+<p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true' width='500"'></p> <p align='middle'><img src='https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
+</details>
+<details>
+  <summary>✨My Tools</summary>
+
+<p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Paramatin-OP&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
+  <br />
+  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <br />
+  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <br>
+</p>  
+</details>
+
+<details>
+<summary>✨My Info</summary>
+
+- State- India, MH
+
+- Class- 11th
+
+- Fun Fact- I Never Thought That you will Visit my Git profile😂😂
+
+Im Curently completing my study backlog and participating in Vision Development
+
+- I did some silly mistake like not giving credits
+
+- I Reallised That Makin A Modules Takes effort 
+
+
+
+</details>
+<details>
+  <summary>✨My Device</summary>
+
+- Dell Inspiron 5570 
+
+- No more than this, now follow me and get lost xD
+  </details>
+
+
+
+
