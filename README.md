@@ -35,14 +35,6 @@
 </br>
 
 ---
-
-
-
-
-### Hi 👋👋
-
-<p align='Middle'><a href='https://t.me/Paramatin7'><img src='https://telegra.ph/file/918273a8e97047f96eeb9.jpg' width='750"'></a></p>
-
 <details>
 <summary>✨My Stats</summary><p align='middle'><img src='https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple' width='500"'></p>
 <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true' width='500"'></p> <p align='middle'><img src='https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
@@ -66,33 +58,3 @@
   <br>
 </p>  
 </details>
-
-<details>
-<summary>✨My Info</summary>
-
-- State- India, MH
-
-- Class- 11th
-
-- Fun Fact- I Never Thought That you will Visit my Git profile😂😂
-
-Im Curently completing my study backlog and participating in Vision Development
-
-- I did some silly mistake like not giving credits
-
-- I Reallised That Makin A Modules Takes effort 
-
-
-
-</details>
-<details>
-  <summary>✨My Device</summary>
-
-- Dell Inspiron 5570 
-
-- No more than this, now follow me and get lost xD
-  </details>
-
-
-
-
