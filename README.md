@@ -1,14 +1,11 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Akshat7678](https://github.com/Akshat7678) | [![Profile views](https://komarev.com/ghpvc/?username=akshat7678&label=My%20Fans%20❤)](https://github.com/akshat7678)
-   <p align='Middle'><a href='https://t.me/Akki_ThePro'><img src='https://telegra.ph/file/fc45a49e9df3446a3e47d.jpg' width='400"'></a></p>
-
-- 
-- 📫 [Connect with me](#-connect-with-me).
-- ⚡ Always ready to help..!
----
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Akshat7678](https://github.com/Akshat7678)
+ 
+ <p align='Middle'><a href='https://t.me/Akki_ThePro'><img src='https://telegra.ph/file/fc45a49e9df3446a3e47d.jpg' width='400"'></a></p>
+ 
 
 <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat7678&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
   <br />
-#### 🛠️ Languages and tools I Love 🧡
+#### 🛠️ Languages and tools I Love and Use
 </br>
 <a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
 <a href="https://www.gnu.org/software/bash/" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> 
@@ -25,7 +22,7 @@
 
 ---
 ## 📊 Stats
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=Akshat7678&theme=midnight-purple&show_icon=true' width='500"'></p> <p align='middle'><img src='https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Akshat7678&theme=midnight-purple&show_icon=true' width='500"'></p> <p align='middle'><img src='https://komarev.com/ghpvc/?username=Akshat7678&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
 <img src='https://github-readme-stats.vercel.app/api?username=Akshat7678&show_icons=true&theme=midnight-purple' width='500"'>
 [![Metrics](https://metrics.lecoq.io/akshat7678?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://github.com/Akshat7678)
 
@@ -36,25 +33,3 @@
 <a href="https://www.youtube.com/results?search_query=Akki+ThePro047" class="padded"><img align="left" alt="Akshat" width="28px" src="./res/youtube.png" /></a> 
 <a href="https://telegram.dog/Akki_ThePro" class="padded"><img align="left" alt="Akki ThePro" width="28px" src="./res/telegram.png" /></a> 
 </br>
-
----
-<details>
-<summary>✨My Stats</summary><p align='middle'>' width='500"'></p>
-<p 
-<details>
-  <summary>✨My Tools</summary>
-
-  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <br />
-  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="20%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-  <br>
-</p>  
-</details>
