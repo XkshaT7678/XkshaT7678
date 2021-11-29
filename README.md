@@ -6,6 +6,8 @@
 - ⚡ Always ready to help..!
 ---
 
+<p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat7678&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
+  <br />
 #### 🛠️ Languages and tools I Love 🧡
 </br>
 <a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
@@ -42,8 +44,6 @@
 <details>
   <summary>✨My Tools</summary>
 
-<p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat7678&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
-  <br />
   <code><img width="20%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
