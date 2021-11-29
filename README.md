@@ -25,7 +25,8 @@
 
 ---
 ## 📊 Stats
-
+align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Akshat7678&theme=midnight-purple&show_icon=true' width='500"'></p> <p align='middle'><img src='https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
+</details>
 [![Metrics](https://metrics.lecoq.io/akshat7678?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://github.com/Akshat7678)
 
 ---
@@ -39,8 +40,7 @@
 ---
 <details>
 <summary>✨My Stats</summary><p align='middle'><img src='https://github-readme-stats.vercel.app/api?username=Akshat7678&show_icons=true&theme=midnight-purple' width='500"'></p>
-<p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Akshat7678&theme=midnight-purple&show_icon=true' width='500"'></p> <p align='middle'><img src='https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
-</details>
+<p 
 <details>
   <summary>✨My Tools</summary>
 
