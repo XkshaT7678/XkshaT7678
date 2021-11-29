@@ -36,13 +36,13 @@
 
 ---
 <details>
-<summary>✨My Stats</summary><p align='middle'><img src='https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple' width='500"'></p>
-<p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true' width='500"'></p> <p align='middle'><img src='https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
+<summary>✨My Stats</summary><p align='middle'><img src='https://github-readme-stats.vercel.app/api?username=Akshat7678&show_icons=true&theme=midnight-purple' width='500"'></p>
+<p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Akshat7678&theme=midnight-purple&show_icon=true' width='500"'></p> <p align='middle'><img src='https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
 </details>
 <details>
   <summary>✨My Tools</summary>
 
-<p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Paramatin-OP&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
+<p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat7678&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
   <br />
   <code><img width="20%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
