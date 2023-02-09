@@ -1,9 +1,9 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Akshat7678](https://github.com/Akshat7678)
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Akshat7678](https://github.com/XkshaT7678)
  
  <p align='Middle'><a href='https://t.me/Akki_ThePro'><img src='https://telegra.ph/file/fc45a49e9df3446a3e47d.jpg' width='400"'></a></p>
  
 
-<p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat7678&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
+<p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=XkshaT7678&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
   <br />
 #### 🛠️ Languages and tools I Love and Use
 </br>
@@ -22,9 +22,9 @@
 
 ---
 ## 📊 Stats
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=Akshat7678&theme=midnight-purple&show_icon=true' width='500"'></p> <p align='middle'><img src='https://komarev.com/ghpvc/?username=Akshat7678&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
-<img src='https://github-readme-stats.vercel.app/api?username=Akshat7678&show_icons=true&theme=midnight-purple' width='500"'>
-[![Metrics](https://metrics.lecoq.io/akshat7678?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://github.com/Akshat7678)
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=XkshaT7678&theme=midnight-purple&show_icon=true' width='500"'></p> <p align='middle'><img src='https://komarev.com/ghpvc/?username=Akshat7678&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
+<img src='https://github-readme-stats.vercel.app/api?username=XkshaT7678&show_icons=true&theme=midnight-purple' width='500"'>
+[![Metrics](https://metrics.lecoq.io/XkshaT7678?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://github.com/Akshat7678)
 
 ---
 ## 🔗 Connect with me
