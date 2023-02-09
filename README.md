@@ -1,11 +1,10 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Akshat7678](https://github.com/XkshaT7678)
- 
  <p align='Middle'><a href='https://t.me/Akki_ThePro'><img src='https://telegra.ph/file/fc45a49e9df3446a3e47d.jpg' width='400"'></a></p>
  
 
 <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=XkshaT7678&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
   <br />
-#### 🛠️ Languages and tools I Love and Use
+## 🛠️ Languages and tools I Love and Use
 </br>
 <a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
 <a href="https://www.gnu.org/software/bash/" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> 
