@@ -1,5 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Akshat7678](https://github.com/XkshaT7678)
  <p align='Middle'><a href='https://t.me/Akki_ThePro'><img src='https://telegra.ph/file/fc45a49e9df3446a3e47d.jpg' width='400"'></a></p>
+ 
+[![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCxNJXtYNaIIQTg3_TBhge2A)](https://www.youtube.com/channel/UCxNJXtYNaIIQTg3_TBhge2A)
 
 # 🔗 Connect with me
 ## 🌐 Socials:
